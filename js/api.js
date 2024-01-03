@@ -1,4 +1,4 @@
-const API_KEY = "fffd1de81e585e9a7ad70940d1c64f72";
+const API_KEY = "";
 
 // fonksiyon şehir ve birim bilgilerini parametre olarak alır
 async function fetchWeatherData(city, units) {
